@@ -1,44 +1,26 @@
-## Your Name
+## Valeria Serci
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Makers Academy student. Started from being a nanny and now able to write some Ruby programs. What I love about coding, is that, like a puzzle, it allows me to use my brain to find solutions to complex problems.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+I am very patient and love solving problems; attention to details, challenge myself with new things. 
+I usually take a big problem and split it in small pieces, so I can solve the easiest parts first and step by step solve everything. 
+I spend the necessary time to double check my work to find typos and bugs.
+I always try to find new things to learn and challenges to test my skills.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (19/08/19 to now)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby
 
-#### Your University / College (start_date to end_date)
+#### University of Cagliari (2007 to 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Political Science
+- 102/110
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
@@ -52,4 +34,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Dangeons and Dragons with friends, boardgames, karaoke.
