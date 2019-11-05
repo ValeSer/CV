@@ -12,9 +12,16 @@ I always try to find new things to learn and challenges to test my skills.
 
 ## Education
 
-#### Makers Academy (19/08/19 to now)
-
-- Ruby
+#### Makers Academy (Aug 2019 to Nov 2019)
+- OOP, TDD, MVC
+- Agile
+- Ruby, Ruby on Rails, JavaScript (JQuery)
+- React 
+- Node/Express
+- RSpec, Jasmine, Capybara, Cypress
+- Postgress, Mongo
+- Travis, Heroku/AWS servers
+- HTML/CSS/Bootstrap
 
 #### University of Cagliari (2007 to 2011)
 
