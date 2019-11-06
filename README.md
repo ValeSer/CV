@@ -1,7 +1,7 @@
 ## Valeria Serci
 
-Makers Academy student. Started from being a nanny and now able to write some Ruby and Javascript programs.
-What I love about coding, is that, like a puzzle, it allows me to use my brain to find solutions to complex problems.
+Junior software developer, graduated at Makers Academy in November 2019. 
+What I love about coding is that, like a puzzle, it allows me to use my brain to find solutions to complex problems.
 
 ## Skills
 
@@ -9,6 +9,7 @@ I am very patient and love solving problems; attention to details, challenge mys
 I usually take a big problem and split it in small pieces, so I can solve the easiest parts first and step by step solve everything. 
 I spend the necessary time to double check my work to find typos and bugs.
 I always try to find new things to learn and challenges to test my skills.
+I speak italian fluently.
 
 
 ## Education
@@ -35,11 +36,12 @@ I always try to find new things to learn and challenges to test my skills.
 
 **Private Family** (April 2018 to April 2019)    
 * Nanny *
-- I applied problem solving, time management and organizing skills.
+- I applied problem solving, time management and organizing skills
 
-**Caffe' Nero** (start_date to end_date)   
+**Caffe' Nero** (September 2016 to February 2017)   
 *Barista*  
-- Team work was crucial, I applied also my empathy with customers and collegues to make the team grow together.
+- Team work was crucial, I applied also my empathy with customers and collegues to make the team grow together
+- Communication 
 
 ## Hobbies
 
