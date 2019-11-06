@@ -1,6 +1,7 @@
 ## Valeria Serci
 
-Makers Academy student. Started from being a nanny and now able to write some Ruby programs. What I love about coding, is that, like a puzzle, it allows me to use my brain to find solutions to complex problems.
+Makers Academy student. Started from being a nanny and now able to write some Ruby and Javascript programs.
+What I love about coding, is that, like a puzzle, it allows me to use my brain to find solutions to complex problems.
 
 ## Skills
 
@@ -15,13 +16,14 @@ I always try to find new things to learn and challenges to test my skills.
 #### Makers Academy (Aug 2019 to Nov 2019)
 - OOP, TDD, MVC
 - Agile
-- Ruby, Ruby on Rails, JavaScript (JQuery)
-- React 
-- Node/Express
-- RSpec, Jasmine, Capybara, Cypress
-- Postgress, Mongo
+- Ruby, Ruby on Rails, RSpec, Postgress, Capybara
+- MERN: Mongo-Express-React-Node
+- JavaScript (+JQuery), Jasmine, Cypress
 - Travis, Heroku/AWS servers
 - HTML/CSS/Bootstrap
+- Team work
+- Problem solving
+- Time managing
 
 #### University of Cagliari (2007 to 2011)
 
@@ -31,14 +33,14 @@ I always try to find new things to learn and challenges to test my skills.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Private Family** (April 2018 to April 2019)    
+* Nanny *
+- I applied problem solving, time management and organizing skills.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Caffe' Nero** (start_date to end_date)   
+*Barista*  
+- Team work was crucial, I applied also my empathy with customers and collegues to make the team grow together.
 
 ## Hobbies
 
-Dangeons and Dragons with friends, boardgames, karaoke.
+Boardgames, painting, karaoke.
