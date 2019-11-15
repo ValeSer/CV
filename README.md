@@ -15,33 +15,32 @@ I speak italian fluently.
 ## Education
 
 #### Makers Academy (Aug 2019 to Nov 2019)
-- OOP, TDD, MVC
-- Agile
-- Ruby, Ruby on Rails, RSpec, Postgress, Capybara
-- MERN: Mongo-Express-React-Node
-- JavaScript (+JQuery), Jasmine, Cypress
-- Travis, Heroku/AWS servers
-- HTML/CSS/Bootstrap
-- Team work
-- Problem solving
-- Time managing
-
+# Projects: 
+- https://github.com/ValeSer/the_main_boris_bike is my very first project. I learned: OOP, TDD, MVC
+ Frameworks: I used maily Ruby and RSpec for testing.
+ 
+- https://github.com/ValeSer/Thermostat
+ I practiced: JavaScript (+JQuery), HTML, Jasmine
+ 
+- https://github.com/ValeSer/Makersbnb is a team project where I worked especially on database, using Postgress.
+ I practiced better: JavaScript (+JQuery), HTML/CSS, Team work, Problem solving when someone desagreed on something, Agile,     Trello
+ 
+- https://github.com/ValeSer/BestB4 and https://github.com/ValeSer/bestB4-Front-End was my team final project.
+  I learned a MERN stack: Mongo-Express-React-Node, used HTML/CSS, Cypress, Time managing, Team work
+ 
 #### University of Cagliari (2007 to 2011)
 
 - Political Science
-- 102/110
-
 
 ## Experience
 
 **Private Family** (April 2018 to April 2019)    
 * Nanny *
-- I applied problem solving, time management and organizing skills
+I solved problems when the kids were tired and they didn't want to listen; managed my time and used organizing skills when I organized playdates and had all my tasks completed everyday at the end of the day.
 
 **Caffe' Nero** (September 2016 to February 2017)   
 *Barista*  
-- Team work was crucial, I applied also my empathy with customers and collegues to make the team grow together
-- Communication 
+Team work was crucial: we planned our tasks as a team everyday, I applied also my empathy with customers, meeting they need even when their requests were difficult to accomplish. I solved some problems due to customer complains. Communication was in place encouraging honesty and transparency.
 
 ## Hobbies
 
