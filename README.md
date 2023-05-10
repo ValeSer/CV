@@ -1,6 +1,6 @@
 # Valeria Serci
 
-Junior software developer 
+**Junior software developer**
 
 One thing I love about coding is that, like a puzzle, it allows me to use my brain to find solutions to complex problems.
 
