@@ -15,16 +15,11 @@ I speak italian fluently.
 
 ## Education
 
-#### Makers Academy (Aug 2019 to Nov 2019)
+#### Makers Academy (Feb 2023 to May 2023)
 # Projects: 
-- https://github.com/ValeSer/the_main_boris_bike is my very first project. I learned: OOP, TDD, MVC
- Frameworks: I used maily Ruby and RSpec for testing.
+
  
-- https://github.com/ValeSer/Makersbnb is a team project where I worked especially on database, using Postgress.
- I practiced better: JavaScript (+JQuery), HTML/CSS, Team work, Problem solving when someone desagreed on something, Agile,     Trello
- 
-- https://github.com/ValeSer/BestB4 and https://github.com/ValeSer/bestB4-Front-End was my team final project.
-  I learned the MERN stack: Mongo-Express-React-Node, used HTML/CSS, Cypress, Time managing, Team work
+
  
 #### University of Cagliari (2007 to 2011)
 
