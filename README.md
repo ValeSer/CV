@@ -13,19 +13,28 @@ I always try to find new things to learn and challenges to test my skills.
 I speak italian fluently.
 
 
-## Education
+[Projects](#projects)   | [Education](#education)   | [Work Experience](#work-experience)   | [Hobbies](#hobbies)   | [Skills](#skills)   | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US)
+---
 
-#### Makers Academy (Feb 2023 to May 2023)
-# Projects: 
+# Projects
+
+| Name                         | Description | Tech/tools |
+| ---------------------------- | ------------ | ------------------------------------- |
+| Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | React, Node.Js, MongoDB, Express, CSS |
+| Acebook | A smaller version of the facebook application  | React, Node.Js, MongoDB, Express, CSS |
+| Bank tech test | a simple banking application that allows users to make deposits, withdrawals and print bank statements [repo here](https://github.com/ValeSer/bank_tech_test)| Ruby, Sinatra, PostgreSQL |
+
+---
 
  
-
+# Education
  
 #### University of Cagliari (2007 to 2011)
 
 - Political Science
 
-## Experience
+
+# Work Experience
 
 **Private Family** (April 2018 to April 2019)    
 *Nanny*
