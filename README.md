@@ -16,7 +16,7 @@ I prefer to break down large problems into smaller, more manageable pieces. This
 | ---------------------------- | ------------ | ------------------------------------- |
 | Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | React, Node.Js, MongoDB, Express, CSS |
 | Acebook | A smaller version of the facebook application [repo here](https://github.com/ValeSer/acebook-team-fire)  | React, Node.Js, MongoDB, Express, CSS |
-| Bank tech test | a simple banking application that allows users to make deposits, withdrawals and print bank statements [repo here](https://github.com/ValeSer/bank_tech_test)| Ruby, Sinatra, PostgreSQL |
+| Bank tech test | A simple banking application that allows users to make deposits, withdrawals and print bank statements [repo here](https://github.com/ValeSer/bank_tech_test)| Ruby, Sinatra, PostgreSQL |
 
 ---
 
@@ -29,7 +29,7 @@ During the 16-week intensive coding bootcamp at Makers Academy, I gained practic
 ### Some notable achievements include:
 
 #### Communications skills:
-+ I am an effective team player and have developed strong communication skills during the engineering projects, when we needed to make decisions. 
++ I have honed my communication skills and have proven to be a valuable team player throughout the various stages of engineering projects, particularly when making critical decisions.
 + I have also gained experience in supporting colleagues who may feel discouraged under pressure, motivating and inspiring the team .
 + I actively engaged in pair programming sessions, every day throughout the course, working closely with classmates to efficiently solve problems, share knowledge, and enhance my coding abilities.
  
@@ -37,7 +37,7 @@ During the 16-week intensive coding bootcamp at Makers Academy, I gained practic
 + Especially during our team projects, I Actively participated in daily stand-up and stand-down meetings, where we discussed progress, challenges, and planned the daily work using Jira to manage tasks.
 
 #### Test-Driven Development (TDD) and OOP:
-+ I have learned that, by writing tests before implementing functionalities, I can ensure my code will work as intended.
++ Through my experience in Test-Driven Development, I have discovered the importance of writing tests before implementing functionality, as it allows me to validate my code and ensure its proper functionality.
 + I applied Object-Oriented Programming (OOP) concepts to design and structure my code in a modular and maintainable way.
 
 #### Technical Skills and Tools:
@@ -57,7 +57,7 @@ Bachelor's Degree: Political Science
 + Learn CSS Course
 + Learn Ruby Course
 + Learn Javascript Course
-+ + Learn Git & GitHub Course
++ Learn Git & GitHub Course
 + Learn the Command Line Course
 
 ---
@@ -87,11 +87,11 @@ Bachelor's Degree: Political Science
 
 **Private Family** (April 2018 to April 2019)    
 **Nanny**
-I solved problems when the kids were tired and they didn't want to listen; managed my time and used organizing skills when I organized playdates and had all my tasks completed everyday at the end of the day. I used my creativity making up games for them.
++ I effectively resolved issues with children who were tired and unresponsive by utilizing my problem-solving skills and adapting my approach. My strong time management and organizational skills allowed me to efficiently plan and coordinate playdates while completing daily tasks. Additionally, I applied my creativity in devising new games and activities for the children.
 
 **Caffe' Nero** (September 2016 to February 2017)   
 **Barista**  
-Team work was crucial: we planned our tasks as a team everyday, I applied also my empathy with customers, meeting they need even when their requests were difficult to accomplish. I solved some problems due to customer complains. Communication was in place encouraging honesty and transparency.
++ Collaboration played a vital role in our team's success. We planned and coordinated our tasks daily, leveraging each other's strengths to accomplish our goals efficiently. Additionally, I demonstrated my empathetic nature when dealing with customers, addressing their challenging requests with care and attention. I effectively resolved issues resulting from customer complaints, prioritizing transparency and honesty in my communication with them.
 
 ---
 # Hobbies
