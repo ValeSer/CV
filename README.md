@@ -19,7 +19,7 @@ I have a growth mindset and am always seeking opportunities to expand my knowled
 I prefer to break down large problems into smaller, more manageable pieces. This allows me to focus on solving the easier parts first, and then work my way towards a solution step by step.<br />
 
 
-[Projects](#projects)   | [Education](#education)   | [Work Experience](#work-experience)   | [Hobbies](#hobbies)   | [Skills](#skills)   | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US)
+[Projects](#projects)   | [Education](#education)   | [Work Experience](#work-experience)    | [Skills](#skills)  | [Hobbies](#hobbies) | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US)
 
 ---
 
