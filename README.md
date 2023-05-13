@@ -2,6 +2,19 @@
 ---
 **Junior software developer**
 
+![mongodb](https://img.shields.io/badge/MONGODB-brightgreen?style=for-the-badge&logoColor=white&logo=mongodb)
+![express](https://img.shields.io/badge/EXPRESS-orange?style=for-the-badge&logoColor=white&logo=express)
+![react](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logoColor=white&logo=react)
+![nodedotjs](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logoColor=white&logo=nodedotjs)
+![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
+![html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5)
+![css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logoColor=white&logo=css3)
+
+![ruby](https://img.shields.io/badge/RUBY-red?style=for-the-badge&logoColor=white&logo=ruby)
+![sinatra](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
+![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql)
+
+
 I have a growth mindset and am always seeking opportunities to expand my knowledge and abilities. Taking on new challenges and learning new things is something I enjoy, as it allows me to continually develop my skills and reach new levels of proficiency. <br />
 I prefer to break down large problems into smaller, more manageable pieces. This allows me to focus on solving the easier parts first, and then work my way towards a solution step by step.<br />
 
