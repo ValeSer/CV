@@ -29,7 +29,7 @@ I prefer to break down large problems into smaller, more manageable pieces. This
 | ---------------------------- | ------------ | ------------------------------------- |
 | Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | React, Node.Js, MongoDB, Express, CSS |
 | Acebook | A smaller version of the facebook application [repo here](https://github.com/ValeSer/acebook-team-fire)  | React, Node.Js, MongoDB, Express, CSS |
-| Bank tech test | A simple banking application that allows users to make deposits, withdrawals and print bank statements [repo here](https://github.com/ValeSer/bank_tech_test)| Ruby, Sinatra, PostgreSQL |
+| Bank tech test | A simple banking application that allows users to make deposits, withdrawals and print bank statements [repo here](https://github.com/ValeSer/bank_tech_test)| Javascript, Jest |
 
 ---
 
