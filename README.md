@@ -15,9 +15,7 @@
 ![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 
 
-I have a growth mindset and am always seeking opportunities to expand my knowledge and abilities. Taking on new challenges and learning new things is something I enjoy, as it allows me to continually develop my skills and reach new levels of proficiency. <br />
-I prefer to break down large problems into smaller, more manageable pieces. This allows me to focus on solving the easier parts first, and then work my way towards a solution step by step.<br />
-
+I have a deep passion for technology and programming, constantly seeking new opportunities to expand my knowledge and skills. <br />My work experience sharpened my communication, time management, and decision-making abilities.<br /> I am a graduate of the intensive Makers Academy coding bootcamp, demonstrating my commitment to continuous learning and self-improvement.<br /> Additionally, I hold Codecademy certifications showcasing my dedication to developing technical expertise.<br /> With a strong foundation in communication and problem-solving, combined with my technical proficiency, I am poised to thrive in the tech industry and contribute to innovative projects.
 
 [Projects](#projects)   | [Education](#education)   | [Work Experience](#work-experience)    | [Skills](#skills)  | [Hobbies](#hobbies) | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US)
 
@@ -27,8 +25,8 @@ I prefer to break down large problems into smaller, more manageable pieces. This
 
 | Name                         | Description | Tech/tools |
 | ---------------------------- | ------------ | ------------------------------------- |
-| Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | React, Node.Js, MongoDB, Express, CSS |
-| Acebook | A smaller version of the facebook application [repo here](https://github.com/ValeSer/acebook-team-fire)  | React, Node.Js, MongoDB, Express, CSS |
+| Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress
+| Acebook | A smaller version of the facebook application [repo here](https://github.com/ValeSer/acebook-team-fire)  | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress |
 | Bank tech test | A simple banking application that allows users to make deposits, withdrawals and print bank statements [repo here](https://github.com/ValeSer/bank_tech_test)| Javascript, Jest |
 
 ---
