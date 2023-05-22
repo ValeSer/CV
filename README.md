@@ -110,7 +110,7 @@ Through my **engineering projects** at Makers, I have honed my skills in buildin
 
 **Private Family** (April 2018 to April 2019)    
 **Nanny**
-+ Effectively **resolved issues** with tired and unresponsive children by demonstrating **patience**, **problem-solving** skills, and **adaptability**, creating a calm and supportive environment.
++ Effectively **resolved issues** with tired and non-cooperative children by demonstrating **patience**, **problem-solving** skills, and **adaptability**, creating a calm and supportive environment.
 + Sensitive to **group dynamics**, understood the needs and interactions of children in a group setting.
 + Utilised strong **time management** and organisational skills to efficiently plan and coordinate playdates while completing daily tasks.
 + Pragmatic approach to **adapt and change** course when necessary, recognizing when making adjustments will lead to better outcomes.
