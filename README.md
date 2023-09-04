@@ -27,6 +27,7 @@ I have a deep passion for technology and programming, constantly seeking new opp
 
 | Name                         | Description | Tech/tools |
 | ---------------------------- | ------------ | ------------------------------------- |
+| My Portfolio | A React application containing some of my projects [link here](https://valeria-serci-portfolio.netlify.app)  | ReactJS, JavaScript, HTML, SCSS |
 | Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress
 | Acebook | A smaller version of the facebook application [repo here](https://github.com/ValeSer/acebook-team-fire)  | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress |
 | Bank tech test | A simple banking application that allows users to make deposits, withdrawals and print bank statements [repo here](https://github.com/ValeSer/bank_tech_test)| Javascript, Jest |
