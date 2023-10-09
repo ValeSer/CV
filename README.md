@@ -95,12 +95,13 @@ Through my **engineering projects** at Makers, I have honed my skills in buildin
 + HTML, CSS, Javascript
 + Ruby, Sinatra
 + Rspec, Jest, Cypress
++ Jira board
 
 #### Enthusiasm for learning
-+ I am currently attending an online **React** Course by Udemy and planning to learn new technologies as soon as I finish it.
- 
++ I am always learning something new or consolidating my skills. At the moment I am consolidating my management skills as a Leader of a team in the Chingu Voyage 46, where I have responsibility as a Product Owner and Scrum Master. 
+  
 #### Wellbeing 
-+ Attending daily **meditation** practice meetings at Makers Academy has equipped me with the skills to handle pressure, manage my emotions effectively and **handle stress** in a positive way.
++ Attending daily **meditation** practice meetings at Makers Academy has equipped me with the skills to handle pressure, manage my emotions effectively and **handle stress** in a positive way. Currently attending a 30 days Meditation challenge.
 
 ---
 
