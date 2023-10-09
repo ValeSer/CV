@@ -18,6 +18,8 @@
 
 
 I have a deep passion for technology and programming, constantly seeking new opportunities to expand my knowledge and skills. <br />My work experience sharpened my communication, time management, and decision-making abilities.<br /> I am a graduate of the intensive Makers Academy coding bootcamp, demonstrating my commitment to continuous learning and self-improvement.<br /> Additionally, I hold Codecademy certifications showcasing my dedication to developing technical expertise.<br /> With a strong foundation in communication and problem-solving, combined with my technical proficiency, I am poised to thrive in the tech industry and contribute to innovative projects.
+Currently attending **Chingu Voyage 46**, a 6-week remote team work program, with the role of **Product Owner(Team Leader and Scrum Master)** and interested in learning **Typescript** and C#.
+
 
 [Projects](#projects)   | [Technical Experience](#technical-experience)   | [Work Experience](#work-experience)    | [Skills](#skills)  | [Personal Interests](#personal-interests) | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US)
 
