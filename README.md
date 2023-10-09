@@ -30,7 +30,7 @@ I have a deep passion for technology and programming, constantly seeking new opp
 | My Portfolio | A React application containing some of my projects [link here](https://valeria-serci-portfolio.netlify.app)  | ReactJS, JavaScript, HTML, SCSS |
 | Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress
 | Acebook | A smaller version of the facebook application [repo here](https://github.com/ValeSer/acebook-team-fire)  | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress |
-|  Meteorite-Explorer| [repo here](https://github.com/ValeSer/Meteorite-Explorer)| ReactJS, Javascript, NodeJS, Jest, Express, HTML, SCSS |
+|  Meteorite-Explorer| I use the Meteorite Landing dataset found on on NASA's Open Data Portal to create an application that allows users to explore meteorite strikes across the globe [repo here](https://github.com/ValeSer/Meteorite-Explorer)| ReactJS, Javascript, NodeJS, Jest, Express, HTML, SCSS |
 
 ---
 
