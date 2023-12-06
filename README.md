@@ -4,6 +4,7 @@
 
 ---
 
+![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MONGODB-brightgreen?style=for-the-badge&logoColor=white&logo=mongodb)
 ![express](https://img.shields.io/badge/EXPRESS-orange?style=for-the-badge&logoColor=white&logo=express)
 ![react](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logoColor=white&logo=react)
@@ -21,7 +22,7 @@ I have a deep passion for technology and programming, constantly seeking new opp
 
 ---
 
-Currently attending **Chingu Voyage 46**, a 6-week remote team work program, with the role of **Product Owner(Team Leader and Scrum Master)** and interested in learning **Typescript** and C#.
+I have just got my certification for attending **Chingu Voyage 46**, a 6-week remote team work program, with the role of **Product Owner(Team Leader and Scrum Master)** where I learned **Typescript**.
 
 
 [Projects](#projects)   | [Technical Experience](#technical-experience)   | [Work Experience](#work-experience)    | [Skills](#skills)  | [Personal Interests](#personal-interests) | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US)
@@ -35,7 +36,7 @@ Currently attending **Chingu Voyage 46**, a 6-week remote team work program, wit
 | My Portfolio | A React application containing some of my projects [link here](https://valeria-serci-portfolio.netlify.app)  | ReactJS, JavaScript, HTML, SCSS |
 | Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress
 | Acebook | A smaller version of the facebook application [repo here](https://github.com/ValeSer/acebook-team-fire)  | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress |
-|  Meteorite-Explorer| I use the Meteorite Landing dataset found on on NASA's Open Data Portal to create an application that allows users to explore meteorite strikes across the globe [repo here](https://github.com/ValeSer/Meteorite-Explorer)| ReactJS, Javascript, NodeJS, Jest, Express, HTML, SCSS |
+| Meteorite-Explorer| I use the Meteorite Landing dataset found on on NASA's Open Data Portal to create an application that allows users to explore meteorite strikes across the globe [repo here](https://github.com/ValeSer/Meteorite-Explorer)| ReactJS, Javascript, NodeJS, Jest, Express, HTML, SCSS |
 
 ---
 
@@ -90,18 +91,18 @@ Bachelor's Degree: Political Science
 + I applied Object-Oriented Programming (OOP) concepts to **design and structure** my code in a modular and maintainable way.
 
 #### Technical Skills and Tools:
-Through my **engineering projects** at Makers, I have honed my skills in building **full-stack** web applications using modern frameworks and technologies such as: 
-+ React, Node.js, MongoDB and Express 
+Through my **engineering projects** at Makers and Chingu, I have honed my skills in building **full-stack** web applications using modern frameworks and technologies such as: 
++ React, Typescript, Node.js, MongoDB and Express 
 + HTML, CSS, Javascript
 + Ruby, Sinatra
 + Rspec, Jest, Cypress
 + Jira board
 
 #### Enthusiasm for learning
-+ I am always learning something new or consolidating my skills. At the moment I am consolidating my management skills as a Leader of a team in the Chingu Voyage 46, where I have responsibility as a Product Owner and Scrum Master. 
++ I am always learning something new or consolidating my skills. I have consolidated my management skills as a Leader of a team in the Chingu Voyage 46, where I had responsibility as a Product Owner and Scrum Master. 
   
 #### Wellbeing 
-+ Attending daily **meditation** practice meetings at Makers Academy has equipped me with the skills to handle pressure, manage my emotions effectively and **handle stress** in a positive way. Currently attending a 30 days Meditation challenge.
++ Attending daily **meditation** practice meetings at Makers Academy has equipped me with the skills to handle pressure, manage my emotions effectively and **handle stress** in a positive way.
 
 ---
 
