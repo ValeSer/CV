@@ -35,7 +35,7 @@ I have just got my certification for attending **Chingu Voyage 46**, a 6-week re
 | ---------------------------- | ------------ | ------------------------------------- |
 | My Portfolio | A React application containing some of my projects [link here](https://valeria-serci-portfolio.netlify.app)  | ReactJS, JavaScript, HTML, SCSS |
 | Yahtzee game | An adaptation of the classic dice game set in a cyberpunk universe [repo here](https://github.com/ValeSer/yahtzee) | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress
-| Acebook | A smaller version of the facebook application [repo here](https://github.com/ValeSer/acebook-team-fire)  | ReactJS, MongoDB, Mongoose, NodeJS, JWT, CSS, JavaScript, Jest, Cypress |
+| Vegilicious |A web app for farmers to post pictures and descriptions of their produce and for users to contact farmers of their intention to buy products [repo here](https://github.com/chingu-voyages/v46-tier3-team-33)  | ReactJS, Typescript, MongoDB, NodeJS, CSS, ExpressJS. |
 | Meteorite-Explorer| I use the Meteorite Landing dataset found on on NASA's Open Data Portal to create an application that allows users to explore meteorite strikes across the globe [repo here](https://github.com/ValeSer/Meteorite-Explorer)| ReactJS, Javascript, NodeJS, Jest, Express, HTML, SCSS |
 
 ---
