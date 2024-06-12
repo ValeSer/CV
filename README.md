@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828"> 
@@ -41,12 +41,11 @@ I am currently implementing a fully deployed full-stack app called **Craft-Purse
 
 ---
 
-
 [Projects](#projects)   | [Technical Experience](#technical-experience)   | [Work Experience](#work-experience)    | [Skills](#skills)  | [Personal Interests](#personal-interests) | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US)
 
 ---
 
-# Projects
+<h2 align="center">Projects</h2>
 
 | Name                         | Description | Tech/tools |
 | ---------------------------- | ------------ | ------------------------------------- |
@@ -58,7 +57,7 @@ I am currently implementing a fully deployed full-stack app called **Craft-Purse
 
 ----
 
-# Technical Experience
+<h2 align="center">Technical Experience</h2>
 
 ## Software Engineer Bootcamp at MAKERS ACADEMY (London, UK)(Jan 2023 to May 2023)
 
@@ -75,16 +74,15 @@ During the 16-week intensive coding bootcamp at Makers Academy, I gained practic
 + **Agile** development methodologies and pair programming techniques
 + **Managing time** constraints while running Project engineering 1 Cohort Demo. By effectively planning and allocating time for each agenda item, I can facilitate meaningful discussions, gather valuable feedback, and identify actionable improvements within the given time frame.
 
-
-# Education
+---
+<h2 align="center">Education</h2>
 
 ## University of Cagliari(Italy) (2007 to 2011)
 
 Bachelor's Degree: Political Science
 
----
 
-## Codecademy Certifications 
+### Codecademy Certifications
 + Learn CSS Course
 + Learn Ruby Course
 + Learn Javascript Course
@@ -93,15 +91,15 @@ Bachelor's Degree: Political Science
 
 ---
 
-# Skills
+<h2 align="center">Skills</h2>
 #### Communications skills:
 + I have honed my **verbal and written** communication skills and have proven to be a valuable team player throughout the various stages of engineering projects, particularly when making **critical decisions**.
 + I have also gained experience in **supporting colleagues** who may feel discouraged under pressure, motivating and inspiring the team .
 + I actively engaged in **pair programming** sessions, every day throughout the course, working closely with classmates to efficiently solve problems, share knowledge, and enhance my coding abilities, and also through attending **EQ** workshops.
  
 
-#### Team work: 
-+ Especially during our team projects, I gained familiarity with **Agile** development methodologies, applied as a part of a Team. During Makers, I Actively participated in daily stand-up and stand-down meetings, where we discussed progress, challenges, and planned the daily work using **Jira** to manage tasks.
+#### Team work:
++ Especially during our team projects, I gained familiarity with **Agile** development methodologies, applied as a part of a Team. During Makers and Chingu, I actively participated in daily stand-up and stand-down meetings, where we discussed progress, challenges, and planned the daily work using **Jira** to manage tasks.
 + Working effectively in several teams, valuing different perspectives and contributing to a positive **team dynamic** allowed me to improve my **Team Work** skills and meet the deadlines
 
 #### Test-Driven Development (TDD) and OOP:
@@ -118,9 +116,6 @@ Through my **engineering projects** at Makers and Chingu, I have honed my skills
 
 #### Enthusiasm for learning
 + I am always learning something new or consolidating my skills. I have consolidated my management skills as a Leader of a team in the Chingu Voyage 46, where I had responsibility as a Product Owner and Scrum Master. 
-  
-#### Wellbeing 
-+ Attending daily **meditation** practice meetings at Makers Academy has equipped me with the skills to handle pressure, manage my emotions effectively and **handle stress** in a positive way.
 
 ---
 
@@ -132,7 +127,7 @@ Through my **engineering projects** at Makers and Chingu, I have honed my skills
 
 ---
 
-# Work Experience
+<h2 align="center">Work Experience</h2>
 
 **Outlier** (21 May - currently working on tasks)
 **AI Training for Italian Writers** 
@@ -161,7 +156,7 @@ Utilised **creativity** in devising new games and activities for the children, e
 
 
 ---
-# Personal Interests
+<h2 align="center">Personal Interests</h2>
 
 + **Board Games:** Engaging in board games sharpens my critical thinking skills and fosters social interaction, providing an enjoyable way for me to unwind and stimulate my mind.
 + **Arts & Crafts:** Pursuing arts and crafts as a hobby stimulates my creativity and self-expression, offering me a therapeutic outlet to reduce stress and enhance my well-being.
