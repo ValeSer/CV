@@ -17,9 +17,13 @@
 ![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 
 
-I have a deep passion for technology and programming, constantly seeking new opportunities to expand my knowledge and skills.</br> After graduating from the intensive Makers Academy coding bootcamp, I am implementing **Craft-Purse**, a full-stack application where I can demonstrate my commitment to continuous learning and self-improvement. While it's already deployed [here](https://craft-purse-ts-app.vercel.app/), it's still a work in progress, with ongoing improvements and features being added. I've chosen a robust stack for its development, utilising **React.js** and **Typescript** for the frontend, along with **Node.js** and **Express.js** for the backend. **MongoDB** serves as the database, ensuring efficient data storage and retrieval. To make **Craft-Purse** accessible to users, I've deployed both the frontend and backend on Vercel, providing a seamless and reliable hosting solution. </br>
-I also hold Codecademy certifications showcasing my dedication to developing technical expertise and I have attended a Team work Program called Chingu Voyage 46:  6-week remote program, with the role of both **Product Owner(Team Leader and Scrum Master)** and Developer, where I learned **Typescript**. 
-Currently I am also learning and practising **Python** through the Codewars website, my profile [here](https://www.codewars.com/users/ValeSer).
+With a background in hospitality and childcare, my journey into coding started as a curiosity nurtured by friends and family.</br>
+I am constantly seeking new opportunities to expand my knowledge and skills.</br>
+For the past 5 years, I've attended technical courses and immersive experiences like **Makers Academy** coding bootcamp and **Chingu Voyage 46** program.</br>
+I am currently implementing a fully deployed full-stack app called **Craft-Purse**.
+
+**Currently Learning and practising:** Python, Scala, Kotlin.</br>
+**Interesting facts about my learning:** I have over 570 honor on Codewars, my profile [here](https://www.codewars.com/users/ValeSer) and I love receiving feedback!
 
 ---
 
