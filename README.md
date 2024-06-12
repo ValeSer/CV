@@ -42,7 +42,7 @@ I am currently implementing a fully deployed full-stack app called **Craft-Purse
 ---
 
 
-[Projects](#projects)   | [Technical Experience](#technical-experience)   | [Work Experience](#work-experience)    | [Skills](#skills)  | [Personal Interests](#personal-interests) | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US)
+[Projects](#projects)   | [Technical Experience](#technical-experience)   | [Work Experience](#work-experience)    | [Skills](#skills)  | [Personal Interests](#personal-interests) | [Linkedin](https://www.linkedin.com/in/valeria-s-45348888/?locale=en_US){:target="_blank"}
 
 ---
 
