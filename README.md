@@ -59,7 +59,7 @@ I am currently implementing a fully deployed full-stack app called **Craft-Purse
 
 <h2 align="center">Technical Experience</h2>
 
-## Software Engineer Bootcamp at MAKERS ACADEMY (London, UK)(Jan 2023 to May 2023)
+<h2> Software Engineer Bootcamp at MAKERS ACADEMY (London, UK)(Jan 2023 to May 2023)</h2>
 
 During the 16-week intensive coding bootcamp at Makers Academy, I gained practical, hands-on experience and honed a diverse range of technical skills.
 
