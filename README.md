@@ -92,6 +92,7 @@ Bachelor's Degree: Political Science
 ---
 
 <h2 align="center">Skills</h2>
+
 #### Communications skills:
 + I have honed my **verbal and written** communication skills and have proven to be a valuable team player throughout the various stages of engineering projects, particularly when making **critical decisions**.
 + I have also gained experience in **supporting colleagues** who may feel discouraged under pressure, motivating and inspiring the team .
