@@ -129,16 +129,14 @@ Through my **engineering projects** at Makers and Chingu, I have honed my skills
 
 <h2 align="center">Work Experience</h2>
 
-**Outlier** (21 May - currently working on tasks)
-**AI Training for Italian Writers** 
+**Outlier** - **AI Training for Italian Writers** (21 May - currently working on tasks)
 + **Attention to detail:** I ensure accuracy in Italian text generation by crafting prompts based on specific criteria. Then, I evaluate the AI's responses meticulously for accuracy and coherence.
 + **Ownership:** I provide a report in English, justifying my decision and taking responsibility for my work.
 + **Creativity:** continuously demonstrated by creating original prompts from scratch.
 + **Time management:** demonstrated submitting tasks within deadlines
 
 
-**Private Family** (April 2018 to April 2019)    
-**Nanny**
+**Private Family** - **Nanny** (April 2018 to April 2019)    
 + Effectively **resolved issues** with tired and non-cooperative children by demonstrating **patience**, **problem-solving** skills, and **adaptability**, creating a calm and supportive environment.
 + Sensitive to **group dynamics**, understood the needs and interactions of children in a group setting.
 + Utilised strong **time management** and organisational skills to efficiently plan and coordinate playdates while completing daily tasks.
@@ -146,8 +144,7 @@ Through my **engineering projects** at Makers and Chingu, I have honed my skills
 Utilised **creativity** in devising new games and activities for the children, enhancing their engagement and enjoyment.
 
 
-**Caffe' Nero** (September 2016 to February 2017)   
-**Barista**  
+**Caffe' Nero** - **Barista**(September 2016 to February 2017)   
 + Highly **collaborative**, actively contributing to the team's success by leveraging each other's strengths and fostering a cooperative environment.
 + Demonstrated **adaptability** and **flexibility**, quickly adjusting to changing circumstances.
 + Planned and coordinated tasks daily, ensuring effective **organisation** and allocation of responsibilities, while staying **reactive** to any emerging needs or challenges.
